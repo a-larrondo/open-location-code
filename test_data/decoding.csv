@@ -3,7 +3,7 @@
 # Provides test cases for decoding valid codes.
 #
 # Format:
-#   code,length,latLo,lngLo,latHi,lngHi
+# code,length,latLo,lngLo,latHi,lngHi
 7FG49Q00+,6,20.35,2.75,20.4,2.8
 7FG49QCJ+2V,10,20.37,2.782125,20.370125,2.78225
 7FG49QCJ+2VX,11,20.3701,2.78221875,20.370125,2.78225
